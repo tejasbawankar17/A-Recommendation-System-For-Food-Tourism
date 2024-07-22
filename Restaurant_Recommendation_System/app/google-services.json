@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916710130211",
+    "project_id": "restaurantrs-16b87",
+    "storage_bucket": "restaurantrs-16b87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916710130211:android:1c2ac3592e49004503e796",
+        "android_client_info": {
+          "package_name": "com.parsh.rrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916710130211-iu2vc0pkpkrqslqt9svvpl8cklemg1ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq4pCXDjsqjKxMOmWN7pF2UZcoCld0csQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916710130211-iu2vc0pkpkrqslqt9svvpl8cklemg1ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
